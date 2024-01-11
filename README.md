@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+Am+Joshua)](https://git.io/typing-svg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on API
@@ -22,4 +23,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lebohang1821/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
