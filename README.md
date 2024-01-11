@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+👋)](https://git.io/typing-svg)
-### Hi there 👋
 
 - 🔭 I’m currently working on API
 - 🌱 I’m currently learning Software engineering
