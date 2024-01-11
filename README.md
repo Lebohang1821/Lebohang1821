@@ -22,18 +22,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lebohang1821/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
 
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
-
-    <script>
-    	var typed4 = new Typed('#typed-text', {
-        strings: ['Look ma I\'m typing.', 'This is awesome!', 'Let\'s do it again. Weee!'],
-        typeSpeed: 75,
-        backSpeed: 25,
-        bindInputFocusEvents: true,
-        loop: true,
-        cursorChar: '_',
-        backDelay: 1000,
-        startDelay: 1000
-      });
-    </script> 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
