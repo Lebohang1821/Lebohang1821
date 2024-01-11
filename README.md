@@ -12,48 +12,28 @@
 
 ## Skills
 
-**Design Tools:**
-- Figma
-- Adobe XD
-- Adobe Photoshop
-
 **Languages:**
-- HTML5
-- CSS3
-- Dart
-- C#
-- JSON
+- C
+- JavaScript
+- Python
 
-**Frameworks, Platforms, and Libraries:**
-- Frontend: Flutter, React
-- Backend: Express, NodeJS, .NET
+**Backend:**
+- Node.js
 
-**Databases:**
-- MySQL
-- MongoDB
-- Firebase
-- XAMPP
-
-**CI/CD & Hosting:**
-- GitHub Actions
-- AWS
-- Netlify
-- Heroku
+**API:**
+- RESTful API Design
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
 
 ## Badges
 
-![Figma](https://img.shields.io/badge/Design-Figma-brightgreen)
-![Adobe XD](https://img.shields.io/badge/Design-Adobe%20XD-blue)
-![Adobe Photoshop](https://img.shields.io/badge/Design-Adobe%20Photoshop-orange)
-![HTML5](https://img.shields.io/badge/Language-HTML5-red)
-![CSS3](https://img.shields.io/badge/Language-CSS3-blue)
-![Dart](https://img.shields.io/badge/Language-Dart-brightgreen)
-![C#](https://img.shields.io/badge/Language-C%23-purple)
-![JSON](https://img.shields.io/badge/Language-JSON-yellow)
+![C](https://img.shields.io/badge/Language-C-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Python](https://img.shields.io/badge/Language-Python-green)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
+![API](https://img.shields.io/badge/API-RESTful-orange)
 
 ## Project Showcase
 
