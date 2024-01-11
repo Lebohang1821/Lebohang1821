@@ -8,9 +8,9 @@
 
 
 
-## GitHub Stats
+## 🚀 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
+[![Lebohang1821's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
 
 ## Badges
 
@@ -36,9 +36,7 @@
 **API:**
 - ![RESTful API](https://img.shields.io/badge/API-RESTful-orange)
 
-## 🚀 GitHub Stats
 
-[![Lebohang1821's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
 
 ## 🛠️ Technologies & Tools
 
@@ -51,9 +49,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lebohang1821/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
 
-## 🚀 Projects
-
-Include links or images of some of your projects, if applicable.
 
 
 
