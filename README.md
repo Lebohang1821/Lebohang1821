@@ -8,21 +8,6 @@
 
 
 
-# Your Name
-
-## Skills
-
-**Languages:**
-- C
-- JavaScript
-- Python
-
-**Backend:**
-- Node.js
-
-**API:**
-- RESTful API Design
-
 ## GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
@@ -35,7 +20,4 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
 ![API](https://img.shields.io/badge/API-RESTful-orange)
 
-## Project Showcase
-
-Include links or images of some of your projects, if applicable.
 
