@@ -10,7 +10,7 @@
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821/Lebohang1821)
 
 ## Badges
 
