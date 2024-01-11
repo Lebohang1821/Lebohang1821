@@ -21,28 +21,6 @@
 ![API](https://img.shields.io/badge/API-RESTful-orange)
 
 
-# Hi there! 👋 I'm Lebohang1821
-
-## Skills
-
-**Languages:**
-- ![C](https://img.shields.io/badge/Language-C-blue)
-- ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-- ![Python](https://img.shields.io/badge/Language-Python-green)
-
-**Backend:**
-- ![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
-
-**API:**
-- ![RESTful API](https://img.shields.io/badge/API-RESTful-orange)
-
-
-
-## 🛠️ Technologies & Tools
-
-![Figma](https://img.shields.io/badge/Design-Figma-brightgreen)
-![Adobe XD](https://img.shields.io/badge/Design-Adobe%20XD-blue)
-![Adobe Photoshop](https://img.shields.io/badge/Design-Adobe%20Photoshop-orange)
 
 ## 🌐 Connect with Me
 
