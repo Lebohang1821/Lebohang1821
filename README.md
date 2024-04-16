@@ -15,7 +15,7 @@
 
 ## 🚀 GitHub Stats
 
-[![Lebohang1821's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821)
+[![Lebohang1821's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang18211)
 
 ## 🌐 Connect with Me
 
