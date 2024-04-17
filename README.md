@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5038&pause=1000&background=FF43B000&random=false&width=435&lines=Hi+There+👋;I+am+a+ALX+Student;Currently+Studying+.+.+.;Full+Stack+.+.+.;Software+Engineering)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on API
+- 🔭 I’m currently working on API.
 - 🌱 I’m currently learning Software engineering
 - 👯 I’m looking to collaborate on Node.js, API, C programming, JavaScript and Python
 - 💬 Ask me about Coding.
