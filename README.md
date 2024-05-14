@@ -17,7 +17,7 @@
 
 [![Lebohang1821's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821)
 
-## 🌐 Connect with Me
+## 🌐 Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshua-chikasha/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
