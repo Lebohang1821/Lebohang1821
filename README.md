@@ -18,15 +18,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lebohang1821&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌐 Lets Connect
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1821beats_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joshua-chikasha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Joshua1821) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Lebohang1821) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshua-chikasha/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1821beats_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshua-chikasha/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
 
