@@ -17,11 +17,8 @@
 
 [![Lebohang1821's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lebohang1821&show_icons=true&theme=radical)](https://github.com/Lebohang1821)
 
-![C](https://img.shields.io/badge/Language-C-blue)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![Python](https://img.shields.io/badge/Language-Python-green)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-brightgreen)
-![API](https://img.shields.io/badge/API-RESTful-orange)
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motekema&size_weight=0.15&count_weight=0.5&layout=compact&theme=algolia">
+</p>
 
 ## 🌐 Lets Connect
 
