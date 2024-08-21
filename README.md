@@ -24,6 +24,6 @@
 
 ## 🌐 Lets Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1821beats_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshua-chikasha/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1821beats_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshua-chikasha/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
 
