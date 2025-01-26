@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5038&pause=1000&background=FF43B000&random=false&width=435&lines=Hi+There+👋;I+am+an+ALX+Graduate;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on API.
-- 🌱 I’m currently learning Software engineering
-- 👯 I’m looking to collaborate on Node.js, API, C programming, JavaScript and Python
-- 💬 Ask me about Coding
-- 📫 How to reach me: millboylebohang@gmail.com
+🔭 I’m currently working on building APIs and backend services.  
+🌱 I’m currently learning advanced software engineering concepts.  
+👯 I’m looking to collaborate on Node.js, API development, C programming, JavaScript, and Python projects.  
+💬 Ask me about coding, debugging, or optimizing backend systems.  
+📫 How to reach me: [millboylebohang@gmail.com](mailto:millboylebohang@gmail.com)  
 
 
 # 💻Tech Stack
