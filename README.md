@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5038&pause=1000&background=FF43B000&random=false&width=435&lines=Hi+There+👋;I+Am+A+Full+Stack;Software+Engineer.;Also+A+ALX+Graduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5038&pause=1000&background=FF43B000&random=false&width=435&lines=Hi+There+👋;I+Am+A+Full+Stack;Software+Engineer,;ALX+Graduate)](https://git.io/typing-svg)
 
 🔭 I’m currently working on building APIs and backend services.  
 🌱 I’m currently learning advanced software engineering concepts.  
