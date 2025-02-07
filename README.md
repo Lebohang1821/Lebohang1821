@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on building APIs and backend services.  
 🌱 I’m currently learning advanced software engineering concepts.  
-👯 I’m looking to collaborate on Node.js, API development, C programming, JavaScript, and Python projects.  
+👯 I’m looking to collaborate on JavaScript, Node.js, API development, C programming, and Python projects.  
 💬 Ask me about coding, debugging, or optimizing backend systems.  
 📫 How to reach me: [millboylebohang@gmail.com](mailto:millboylebohang@gmail.com)  
 
