@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=7000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&background=00000000&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Joshua+Chikasha+%E2%9C%A8;A+Full+Stack+Software+Engineer;React+%7C+Node+%7C+TypeScript+%7C+SQL+%7C+AI+%26+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=36&duration=4000&pause=500&color=00F0FF&vCenter=true&width=500&height=80&lines=✨+HEY+WORLD,+I'M+JOSHUA;🚀+FULL-STACK+ENGINEER;💡+BUILDING+THE+FUTURE;⚡+TECH+ARTIST+&&+CODER)](https://git.io/typing-svg)
 
 
 🔭 I’m currently working on building APIs and backend services.  
