@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=4500&pause=800&color=2F3437&background=FFFFFF00&width=500&lines=Hi,+I'm+Joshua+Chikasha;Full-Stack+Engineer;Systems+Thinker;Clean+Code+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=4500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&background=00000000&width=600&lines=Hey+there+👋;I'm+Joshua+Chikasha;Full+Stack+Software+Engineer;React+Native+%7C+Next.js+%7C+Node.js+%7C+AI+Dev)](https://git.io/typing-svg)
+
 
 🔭 I’m currently working on building APIs and backend services.  
 🌱 I’m currently learning advanced software engineering concepts.  
