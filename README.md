@@ -1,8 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3800&pause=600&color=7F00FF&vCenter=true&width=500&lines=%24+./welcome.sh;Hello+World+%F0%9F%8C%8E;I'm+Joshua+Chikasha;Full-Stack+%26+Systems+Dev;%5B%3A%3A+Building+the+Future+%3A%3A%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&multiline=true&width=500&height=80&lines=%F0%9F%8C%88+Hey%2C+I'm+Joshua;%F0%9F%92%BB+Full-Stack+Engineer;%F0%9F%93%A6+Systems+%26+Scale;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Code+Artist&center=true&vCenter=true&repeat=true&random=true&colors=00F0FF;7F00FF;FF3CAC;00FF87;FFD700;FF5733)](https://git.io/typing-svg)
 
-<h3 align="center" style="font-family: 'Segoe UI'; font-weight: 600; background: linear-gradient(90deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Joshua Chikasha · Full-Stack Engineer
-</h3>
 
 🔭 I’m currently working on building APIs and backend services.  
 🌱 I’m currently learning advanced software engineering concepts.  
