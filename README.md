@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3800&pause=600&color=7F00FF&vCenter=true&width=500&lines=%24+./welcome.sh;Hello+World+%F0%9F%8C%8E;I'm+Joshua+Chikasha;Full-Stack+%26+Systems+Dev;%5B%3A%3A+Building+the+Future+%3A%3A%5D)](https://git.io/typing-svg)
 
+<h3 align="center" style="font-family: 'Segoe UI'; font-weight: 600; background: linear-gradient(90deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Joshua Chikasha · Full-Stack Engineer
+</h3>
+
 🔭 I’m currently working on building APIs and backend services.  
 🌱 I’m currently learning advanced software engineering concepts.  
 👯 I’m looking to collaborate on JavaScript, Node.js, API development, C programming, and Python projects.  
