@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=36&duration=4000&pause=500&color=00F0FF&vCenter=true&width=500&height=80&lines=✨+HEY+WORLD,+I'M+JOSHUA;🚀+FULL-STACK+ENGINEER;💡+BUILDING+THE+FUTURE;⚡+TECH+ARTIST+&&+CODER)](https://git.io/typing-svg)
-
+![Metrics](https://metrics.lecoq.io/[USERNAME]?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FHarare)
 
 🔭 I’m currently working on building APIs and backend services.  
 🌱 I’m currently learning advanced software engineering concepts.  
