@@ -13,7 +13,6 @@
 
 
 ## 🚀 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lebohang1821&" alt="lebohang1821" /></p>
 ![](https://github-readme-stats.vercel.app/api?username=Lebohang1821&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lebohang1821&theme=radical&hide_border=false)<br/>
 
