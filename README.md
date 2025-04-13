@@ -24,3 +24,12 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1821beats_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joshua-chikasha/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Lebohang1821)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lebohang1821&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lebohang1821&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lebohang1821&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
